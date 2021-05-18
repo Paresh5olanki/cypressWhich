@@ -1,0 +1,23 @@
+{
+  "name": "cypresswhich",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "$(npm bin)/cypress run --headless",
+    "open": "$(npm bin)/cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paresh5olanki/cypressWhich.git"
+  },
+  "author": "Paresh Solanki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paresh5olanki/cypressWhich/issues"
+  },
+  "homepage": "https://github.com/Paresh5olanki/cypressWhich#readme",
+  "dependencies": {
+    "cypress": "^7.3.0"
+  }
+}
