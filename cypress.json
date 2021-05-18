@@ -1,3 +1,5 @@
 {
-    "baseUrl": "https://www.which.co.uk/reviews"
+    "baseUrl": "https://www.which.co.uk/reviews",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080
 }

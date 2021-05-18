@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "$(npm bin)/cypress run --headless",
+    "Headless": "$(npm bin)/cypress run --browser chrome --headless",
+    "test": "$(npm bin)/cypress run --browser chrome",
     "open": "$(npm bin)/cypress open"
   },
   "repository": {
