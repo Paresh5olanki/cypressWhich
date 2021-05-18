@@ -12,6 +12,6 @@ describe('Review Televisions', () => {
 //   it('Should see blurred elements for logged out user', () => {
 //   })
 
-//   it('Should see the correct result count for specif filters', () => {
+//   it('Should see the correct result count for specific filters', () => {
 //   })
 })
